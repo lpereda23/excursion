@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#video-container {
+  text-align: center;
+}
+
+.main-body h1 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#info {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+#campImg {
+  text-align: center;
+}
+
+footer p {
+  color: gray;
+  text-align: right;
+}
